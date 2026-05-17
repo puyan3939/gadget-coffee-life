@@ -25,7 +25,7 @@ defaultTheme = "auto"
 enabled = true
 title = "ガジェットとコーヒーと暮らし"
 subtitle = "Linux、自作PC、回路、FPGA、コーヒー、生活。"
-imageUrl = "/images/desk.jpg"
+imageUrl = "/static/images/desk.jpg"
 imageTitle = "desk"
 
 [[params.profileMode.buttons]]
