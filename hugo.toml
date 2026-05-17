@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'https://puyan3939.github.io/gadget-coffee-life/'
 languageCode = 'ja-jp'
 title = 'ガジェットとコーヒーと暮らし'
 theme = 'PaperMod'
