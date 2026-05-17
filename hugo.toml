@@ -1,0 +1,42 @@
+baseURL = 'http://localhost/'
+languageCode = 'ja-jp'
+title = 'ガジェットとコーヒーと暮らし'
+theme = 'PaperMod'
+
+[[menu.main]]
+name = "ガジェット"
+url = "/gadget/"
+weight = 1
+
+[[menu.main]]
+name = "コーヒー"
+url = "/coffee/"
+weight = 2
+
+[[menu.main]]
+name = "生活"
+url = "/life/"
+weight = 3
+
+
+[params]
+defaultTheme = "auto"
+[params.profileMode]
+enabled = true
+title = "ガジェットとコーヒーと暮らし"
+subtitle = "Linux、自作PC、回路、FPGA、コーヒー、生活。"
+imageUrl = "/images/desk.jpg"
+imageTitle = "desk"
+
+[[params.profileMode.buttons]]
+  name = "ガジェット"
+  url = "/gadget"
+
+[[params.profileMode.buttons]]
+  name = "コーヒー"
+  url = "/coffee"
+
+[[params.profileMode.buttons]]
+  name = "生活"
+  url = "/life"
+
