@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/coffee/</loc>
+    <lastmod>2026-05-17T19:08:12+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/</loc>
+    <lastmod>2026-05-17T19:08:12+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/gadget/</loc>
+    <lastmod>2026-05-17T19:06:47+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/gadget/linux-mint/</loc>
+    <lastmod>2026-05-17T19:06:47+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/first/</loc>
+    <lastmod>2026-05-17T18:54:07+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/posts/</loc>
+    <lastmod>2026-05-17T18:54:07+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost/categories/</loc>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>
